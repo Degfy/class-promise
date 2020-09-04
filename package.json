@@ -1,0 +1,14 @@
+{
+  "name": "class-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx promises-aplus-tests promise.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
